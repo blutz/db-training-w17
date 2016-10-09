@@ -17,22 +17,22 @@
 ### October 9, 2016
 * Introductions
 * Pre-survey
-* [Introduction to Journalism](journalism.md)
+* [Introduction to Journalism](topics/journalism.md)
   * What is journalism?
   * [SPJ Code of Ethics](http://www.spj.org/ethicscode.asp)
   * What is data journalism? + Examples
   * VIDEO: [Data Viz: You're Doin' it Wrong](https://www.youtube.com/watch?v=i93iWza8sG8)
 * Web development
-  * HTML review
+  * [HTML review](topics/html-css-js.md)
   * Git/GitHub
-  * CSS
-  * Responsive design (using Bootstrap)
-  * Basic Javascript
+  * [CSS](topics/html-css-js.md)
+  * [Responsive design (using Bootstrap)](topics/html-css-js.md)
+  * [Basic Javascript](topics/html-css-js.md)
   * Work on Project 1
 * Questions
 * Transitional training
 
-**[Project 1](projects/project.md)** due Friday, October 14 by 5 p.m. Email to <byronlutz@gmail.com>.
+**[Project 1](projects/project1.md)** due Friday, October 14 by 5 p.m. Email to <byronlutz@gmail.com>.
 
 ### October 11, 2016 (location TBD)
 Media law training, from 6 p.m. - 8 p.m.
