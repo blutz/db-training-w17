@@ -17,11 +17,11 @@
 ### October 9, 2016
 * Introductions
 * Pre-survey
-* Introduction to Journalism
+* [Introduction to Journalism](journalism.md)
   * What is journalism?
   * [SPJ Code of Ethics](http://www.spj.org/ethicscode.asp)
   * What is data journalism? + Examples
-  * [Data Viz: You're Doin' it Wrong](https://www.youtube.com/watch?v=i93iWza8sG8)
+  * VIDEO: [Data Viz: You're Doin' it Wrong](https://www.youtube.com/watch?v=i93iWza8sG8)
 * Web development
   * HTML review
   * Git/GitHub
