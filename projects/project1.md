@@ -14,7 +14,7 @@
 * *Make tabs for your page in CSS/JS (optional)*
 * *Implement at least one other feature in JS (optional — whatever you want!)*
 
-**Due Friday, October 14 at 5:00 p.m.**
+**Due Saturday, October 15 at 5:00 p.m.**
 * Send me your team's code (on GitHub) with all requirements
 * Write a short (individual) status report with (a) challenges you faced and mistakes you made and (b) something else you want to learn to do to your page
 
