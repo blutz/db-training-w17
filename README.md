@@ -11,7 +11,7 @@
 
 ## Prerequisites
 1. Make a [GitHub account](https://github.com)
-1. Be familiar with HTML. This [CodeAcademy course](https://www.codecademy.com/en/courses/web-beginner-en-HZA3b/0/1) will help.
+1. Be familiar with HTML. This [Codecademey course](https://www.codecademy.com/en/courses/web-beginner-en-HZA3b/0/1) will help.
 
 ## Training outline
 ### October 9, 2016
