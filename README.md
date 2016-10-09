@@ -28,11 +28,11 @@
   * CSS
   * Responsive design (using Bootstrap)
   * Basic Javascript
-  * Work on Homework 1
+  * Work on Project 1
 * Questions
 * Transitional training
 
-**[Homework 1](homeworks/homework1.md)** due Friday, October 14 by 5 p.m. Email to <byronlutz@gmail.com>.
+**[Project 1](projects/project.md)** due Friday, October 14 by 5 p.m. Email to <byronlutz@gmail.com>.
 
 ### October 11, 2016 (location TBD)
 Media law training, from 6 p.m. - 8 p.m.
