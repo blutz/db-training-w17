@@ -38,5 +38,12 @@
 Media law training, from 6 p.m. - 8 p.m.
 
 ### October 16, 2016
+* Javascript refresher
+* Handlebars
+* AJAX
+* Google Spreadsheets API
+* Work on Project 2
 
 ### October 23, 2016
+* Bringing it all together...
+* Post-survey
