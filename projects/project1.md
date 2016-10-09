@@ -7,12 +7,12 @@
 **Requirements:**
 * Have at least one HTML file
 * Have at least one CSS file
-* Have at least one JS file
-* Use Bootstrap
-* Make sure your page works fine on a mobile phone
 * Track your project in git (use GitHub or similar)
-* Make tabs for your page in CSS/JS
-* Implement at least one other feature in JS (whatever you want!)
+* *Have at least one JS file (optional)*
+* *Use Bootstrap (optional)*
+* *Make sure your page works fine on a mobile phone (optional)*
+* *Make tabs for your page in CSS/JS (optional)*
+* *Implement at least one other feature in JS (optional — whatever you want!)*
 
 **Due Friday, October 14 at 5:00 p.m.**
 * Send me your team's code (on GitHub) with all requirements
