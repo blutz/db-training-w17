@@ -8,11 +8,11 @@ Git is a distributed version control system. It's useful to:
 
 Mostly, though, it prevents the need for this:
 
-![Crazy filenames](assets/filenames.png)
+![Crazy filenames](../assets/filenames.png)
 
 However, since it's a clever design of a singly-linked list, it can be notoriously difficult to learn.
 
-![Git XKCD comic](assets/xkcd-git.png) [(source)](https://xkcd.com/1597/)
+![Git XKCD comic](../assets/xkcd-git.png) [(source)](https://xkcd.com/1597/)
 
 Some important things to keep in mind:
 * A commit is a single, logical change (across as many files as you need). Make lots of small commits with explanatory commit messages — they're really helpful when debugging.

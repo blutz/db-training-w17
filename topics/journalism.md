@@ -26,7 +26,7 @@ Types of data journalism that you might be doing:
 * Supporting graphics/interactives for a story
 * Live coverage
 
-![Less is More](assets/lessismore.gif)
+![Less is More](../assets/lessismore.gif)
 
 **Watch:** [Data Viz: You're Doin' it Wrong (Noah Illinksy/5:19) &rarr;](https://www.youtube.com/watch?v=i93iWza8sG8)    
 **Watch:** [The beauty of data visualization (David McCandless/17:56) &rarr;](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en)
