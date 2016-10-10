@@ -34,8 +34,8 @@
 
 **[Project 1](projects/project1.md)** due Saturday, October 15 by 5 p.m. Email to <byronlutz@gmail.com>.
 
-### October 11, 2016 (location TBD)
-Media law training, from 6 p.m. - 8 p.m.
+### October 13, 2016 (location: MS 4000A)
+Media law training, from 6:45 p.m. - 9 p.m.
 
 ### October 16, 2016
 * Javascript refresher
