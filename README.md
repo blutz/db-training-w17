@@ -26,8 +26,6 @@
   * [HTML review](topics/html-css-js.md)
   * Git/GitHub
   * [CSS](topics/html-css-js.md)
-  * [Responsive design (using Bootstrap)](topics/html-css-js.md)
-  * [Basic Javascript](topics/html-css-js.md)
   * Work on Project 1
 * Questions
 * Transitional training
@@ -38,6 +36,8 @@
 Media law training, from 6:45 p.m. - 9 p.m.
 
 ### October 16, 2016
+* [Responsive design (using Bootstrap)](topics/html-css-js.md)
+* [Basic Javascript](topics/html-css-js.md)
 * Javascript refresher
 * Handlebars
 * AJAX
