@@ -7,6 +7,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+@media (max-width: 700px) {
+  body {
+    padding: 10px;
+  }
+}
 h1 {
   text-align: center;
   font-size: 3rem;
@@ -24,6 +29,11 @@ h1 {
   padding: 0;
   text-align: center;
 }
+@media (min-width: 450px) and (max-width: 615px) {
+  .menu li {
+    margin: 10px;
+  }
+}
 
 .menu li {
   text-align: center;
@@ -31,6 +41,11 @@ h1 {
   padding: 5px 15px;
   background-color: #2B84C2;
   border-radius: 5px;
+}
+@media (max-width: 450px) {
+  .menu li {
+    display: block;
+  }
 }
 .menu li:hover {
   opacity: 0.9;
