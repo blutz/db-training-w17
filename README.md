@@ -41,9 +41,11 @@ Media law training, from 6:45 p.m. - 9 p.m.
 * Javascript refresher
 * Handlebars
 * AJAX
-* Google Spreadsheets API
 * Work on Project 2
 
+**[Project 2](projects/project2.md)** due Saturday, October 22 by 5 p.m. Email to <byronlutz@gmail.com>.
+
 ### October 23, 2016
+* Google Spreadsheets API
 * Bringing it all together...
 * Post-survey
