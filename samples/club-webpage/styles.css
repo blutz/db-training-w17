@@ -2,15 +2,7 @@ html {
   background-color: azure;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-body {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
 @media (max-width: 700px) {
-  body {
-    padding: 10px;
-  }
 }
 h1 {
   text-align: center;
@@ -42,9 +34,12 @@ h1 {
   background-color: #2B84C2;
   border-radius: 5px;
 }
+/* is this a comment? */
 @media (max-width: 450px) {
   .menu li {
     display: block;
+    width: 50%;
+    margin: 5px auto;
   }
 }
 .menu li:hover {
