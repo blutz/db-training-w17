@@ -13,4 +13,4 @@
 
 **Due Saturday, October 22, 2016 @ 5:00pm**
 * Send me a link to your team's code. (GitHub is preferred.)
-* Individually, send me a brief status report, describing challenges you faced, things you learned, resources you used, and what you want to learn next.
+* Individually, send me a brief status report, describing challenges you faced, things you learned, resources you used, and what you want to learn in the next training.
