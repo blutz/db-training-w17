@@ -36,9 +36,9 @@
 Media law training, from 6:45 p.m. - 9 p.m.
 
 ### October 16, 2016
+* Resume/Hiring Tips
 * [Responsive design (using Bootstrap)](topics/html-css-js.md)
 * [Basic Javascript](topics/html-css-js.md)
-* Javascript refresher
 * Handlebars
 * AJAX
 * Work on Project 2
