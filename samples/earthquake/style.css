@@ -30,3 +30,15 @@
 .sidebar-controls label {
   margin-top: 15px;
 }
+.earthquake {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+.earthquake:hover {
+  background-color: #f7f7f7;
+  cursor: pointer;
+}
+.earthquake h4 {
+  font-weight: 200;
+  font-size: 20px;
+}
