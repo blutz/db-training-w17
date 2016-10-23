@@ -42,3 +42,6 @@
   font-weight: 200;
   font-size: 20px;
 }
+.btn:focus, .btn:active {
+  outline: none;
+}
