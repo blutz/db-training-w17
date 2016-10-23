@@ -10,6 +10,23 @@
 <body>
   <div class='sidebar'>
     <h1>Earthquake Tracker</h1>
+    <div class='sidebar-controls'>
+      <label>Magnitude</label>
+      <div class='sidebar-control-magnitude'>
+        <button type='button' class='btn btn-default'>All</button>
+        <button type='button' class='btn btn-default'>1.0+</button>
+        <button type='button' class='btn btn-default'>2.5+</button>
+        <button type='button' class='btn btn-default'>4.5+</button>
+        <button type='button' class='btn btn-primary'>Significant</button>
+      </div>
+      <label>In the last...</label>
+      <div class='sidebar-control-time'>
+        <button type='button' class='btn btn-default'>Hour</button>
+        <button type='button' class='btn btn-default'>Day</button>
+        <button type='button' class='btn btn-default'>Week</button>
+        <button type='button' class='btn btn-primary'>Month</button>
+      </div>
+    </div>
   </div>
   <div class='map' id='map'></div>
   <script src='https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.js'></script>

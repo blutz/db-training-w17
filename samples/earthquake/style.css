@@ -1,12 +1,12 @@
 .map {
   position: absolute;
   top: 0;
-  left: 450px;
+  left: 400px;
   bottom: 0;
   right: 0;
 }
 .sidebar {
-  width: 450px;
+  width: 400px;
   height: 100%;
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
@@ -19,4 +19,14 @@
   color: white;
   padding: 15px;
   text-align: center;
+  margin-bottom: 0;
+}
+.sidebar-controls {
+  background-color: #eee;
+  padding: 15px 10px;
+  padding-top: 0;
+  text-align: center;
+}
+.sidebar-controls label {
+  margin-top: 15px;
 }
