@@ -6,6 +6,16 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
   <link href='https://api.mapbox.com/mapbox-gl-js/v0.26.0/mapbox-gl.css' rel='stylesheet' />
   <link href='style.css' rel='stylesheet' />
+  <script type='text/x-handlebars-template' id='list-template'>
+    {{#if error}}
+      <div class='alert'>{{error}}</div>
+    {{/if}}
+    {{#each earthquakes}}
+      <div class='earthquake'>
+        <h4>{{title}}</h4>
+      </div>
+    {{/each}}
+  </script>
 </head>
 <body>
   <div class='sidebar'>
@@ -27,7 +37,7 @@
         <button type='button' class='btn btn-default' data-eq-time='month'>Month</button>
       </div>
     </div>
-    <div class='sidebar-list'>
+    <div class='sidebar-list' id='sidebar-list'>
       <div class='earthquake'>
         <h4>My earthquake title</h4>
       </div>
