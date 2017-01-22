@@ -27,7 +27,7 @@
 * Questions
 * Transitional training
 
-**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m. Email to <byronlutz@gmail.com>.
+<!--**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m. Email to <byronlutz@gmail.com>.-->
 
 ### Date TBD (location: TBD)
 Media law training (time TBD)
@@ -45,5 +45,5 @@ Media law training (time TBD)
 ### Sunday, February 5, 2017
 * Bringing it all together...
 * Daily Bruin training
-* Guest speaker: Machiko Yasuda
+* Guest speaker?
 * Post-survey
