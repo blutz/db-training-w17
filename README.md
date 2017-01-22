@@ -22,10 +22,14 @@
   * VIDEO: [Data Viz: You're Doin' it Wrong](https://www.youtube.com/watch?v=i93iWza8sG8)
 * Web development
   * [HTML review](topics/html-css-js.md)
+    * Lab: Build your news homepage
   * [CSS](topics/html-css-js.md)
+    * Lab: Style your news homepage
   * [Git/GitHub](topics/git.md)
+    * Lab: Track your news homepage in git, make changes, and push
   * Web Inspector
-  * Work on Project 1
+    * Lab: Make a change to your favorite webpage
+* Work on Project 1
 * Questions
 * Transitional training
 
