@@ -43,6 +43,7 @@ Media law training (time TBD)
 * Resume/Hiring Tips
 * [Responsive design (using Bootstrap)](topics/html-css-js.md)
 * [Basic Javascript](topics/html-css-js.md)
+  * VIDEO: [Wat](https://www.destroyallsoftware.com/talks/wat)
 * Handlebars
 * AJAX
 * Work on Project 2
