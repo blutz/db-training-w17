@@ -1,7 +1,7 @@
 # Journalism
 **What does it mean to be a journalist?** As a journalist, you are a storyteller. As a data journalist, you tell stories thorugh data using interactive or static visualizations.
 
-*Were it left to me to decide whether we should hav e agovernment without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter.* — Thomas Jefferson
+*Were it left to me to decide whether we should have agovernment without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter.* — Thomas Jefferson
 
 What's the purpose of journalism?
 
@@ -15,14 +15,14 @@ To be a good journalist, follow the [SPJ Code of Ethics](http://www.spj.org/ethi
 * Seek truth and report it
 * Minimize harm
 * Act independently
-* Be accountable and transparente
+* Be accountable and transparent
 
 ## Your role as a data journalist
 
 Types of data journalism that you might be doing:
 
 * Standalone stories (a project that mostly formats and supports the text)
-* Standalone graphics/ineractives (taht tell a story by themselves)
+* Standalone graphics/interactives (that tell a story by themselves)
 * Supporting graphics/interactives for a story
 * Live coverage
 
