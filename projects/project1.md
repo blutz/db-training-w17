@@ -16,6 +16,7 @@
 * Implement a CSS animation or transition
 * Implement an interactive feature with JS
 * Integrate a third-party library (Google Fonts, Mapbox, jQuery plugin, etc.)
+* Make some styles using pseudo elements (`:hover`, `:first-child`, etc.)
 
 **Due Saturday, January 28 at 5:00 p.m.**
 * Post your code on GitHub (preferably using gh-pages) with all requirements
