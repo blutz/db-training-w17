@@ -1,3 +1,5 @@
+<!--This syllabus is available online at https://github.com/blutz/db-training-w17 -->
+
 # Online Training Syllabus
 *Daily Bruin Online, Winter 2017*
 
