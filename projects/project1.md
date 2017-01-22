@@ -15,5 +15,8 @@
 * *Implement at least one other feature in JS (optional — whatever you want!)*
 
 **Due Saturday, January 28 at 5:00 p.m.**
-* Send me your team's code (on GitHub) with all requirements
+* Post your code on GitHub (preferably using gh-pages) with all requirements
 * Write a short (individual) status report with (a) challenges you faced and mistakes you made and (b) something else you want to learn to do to your page
+* **[Submit your page here](https://airtable.com/shrYhT0FghLXb3Jdn)**
+
+[Check here](https://airtable.com/shrrvc538fhRAx3um) to see if your project was submitted successfully.

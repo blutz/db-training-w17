@@ -26,6 +26,7 @@
   * [CSS](topics/html-css-js.md)
     * Lab: Style your news homepage
   * [Git/GitHub](topics/git.md)
+    * GitHub Pages
     * Lab: Track your news homepage in git, make changes, and push
   * Web Inspector
     * Lab: Make a change to your favorite webpage
@@ -33,7 +34,7 @@
 * Questions
 * Transitional training
 
-<!--**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m. Email to <byronlutz@gmail.com>.-->
+**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.
 
 ### Date TBD (location: TBD)
 Media law training (time TBD)
