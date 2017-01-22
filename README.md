@@ -5,7 +5,7 @@
 
 **Instructor:** Byron Lutz (<byronlutz@gmail.com>), Full-stack engineer at [Factual](https://factual.com).    
 **Materials:** Bring your laptop and a charger to each training session. All software we use is free and mostly open-source.    
-**Location:** Location may change each week. (Week 1: Ackerman 3508)    
+**Location:** Location may change each week. (Week 1: Ackerman 3508; Week 2: TBD)    
 **Time:** Trainings are from 10:30 a.m. - 3:00 p.m. We'll take a lunch break around noon each day, so either bring money or pack a lunch.    
 **Attendance:** Attending all three trainings (and the media-law training) are all **mandatory**. You will be working in groups during the trainings, so it's difficult to plan unless everyone is present.
 
