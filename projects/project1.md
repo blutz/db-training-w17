@@ -8,11 +8,14 @@
 * Have at least one HTML file
 * Have at least one CSS file
 * Track your project in git (use GitHub or similar)
-* *Have at least one JS file (optional)*
-* *Use Bootstrap (optional)*
-* *Make sure your page works fine on a mobile phone (optional)*
-* *Make tabs for your page in CSS/JS (optional)*
-* *Implement at least one other feature in JS (optional — whatever you want!)*
+* One "challenge" requirement
+
+**Challenges:**
+* Use Bootstrap and make sure your page works on a mobile phone
+* Make tabs for your page in CSS/JS
+* Implement a CSS animation or transition
+* Implement an interactive feature with JS
+* Integrate a third-party library (Google Fonts, Mapbox, jQuery plugin, etc.)
 
 **Due Saturday, January 28 at 5:00 p.m.**
 * Post your code on GitHub (preferably using gh-pages) with all requirements
