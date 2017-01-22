@@ -20,8 +20,9 @@
   * VIDEO: [Data Viz: You're Doin' it Wrong](https://www.youtube.com/watch?v=i93iWza8sG8)
 * Web development
   * [HTML review](topics/html-css-js.md)
-  * Git/GitHub
   * [CSS](topics/html-css-js.md)
+  * [Git/GitHub](topics/git.md)
+  * Web Inspector
   * Work on Project 1
 * Questions
 * Transitional training
