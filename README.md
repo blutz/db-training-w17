@@ -37,7 +37,7 @@
 **[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.
 
 ### Date TBD (location: TBD)
-Media law training (time TBD)
+Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located in the **Bruin Reception Room**.
 
 ### Sunday, January 29, 2017
 * Resume/Hiring Tips
