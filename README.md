@@ -36,10 +36,7 @@
 
 **[Code from training 1](samples/training1)**
 
-#### Project 1
-
-**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.
-
+**[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.    
 **[Project 1 sample solution](samples/club-webpage)**
 
 
@@ -61,8 +58,6 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
   * Lab: Use some jQuery effects in the console on DailyBruin.com
 * AJAX
 * Work on Project 2
-
-#### Project 2
 
 **[Project 2](projects/project2.md)** due Saturday, February 4 by 5 p.m.
 
