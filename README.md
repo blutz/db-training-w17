@@ -67,5 +67,3 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
 * Editor-led training
 * Guest speaker?
 * Post-survey
-
-No I like this better
