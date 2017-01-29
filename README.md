@@ -34,7 +34,14 @@
 * Questions
 * Transitional training
 
+**[Code from training 1](samples/training1)**
+
+#### Project 1
+
 **[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.
+
+**[Project 1 sample solution](samples/club-webpage)**
+
 
 ### Tuesday, January 24 (Bruin Reception Room)
 Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located in the **Bruin Reception Room**.
@@ -47,16 +54,21 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
   * Project 1
 * Git part 2 (branches, merges)
 * [Responsive design (using Bootstrap)](topics/html-css-js.md)
+  * Lab: Make your homework project responsive
 * [Basic Javascript](topics/html-css-js.md)
   * VIDEO: [Wat](https://www.destroyallsoftware.com/talks/wat)
-* Handlebars
+  * jQuery
+  * Lab: Use some jQuery effects in the console on DailyBruin.com
 * AJAX
 * Work on Project 2
 
-<!--**[Project 2](projects/project2.md)** due Saturday, October 22 by 5 p.m. Email to <byronlutz@gmail.com>.-->
+#### Project 2
+
+**[Project 2](projects/project2.md)** due Saturday, February 4 by 5 p.m.
 
 ### Sunday, February 5, 2017 (Location TBD)
+* Handlebars
 * Bringing it all together...
-* Daily Bruin training
+* Editor-led training
 * Guest speaker?
 * Post-survey
