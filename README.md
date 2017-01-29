@@ -5,7 +5,7 @@
 
 **Instructor:** Byron Lutz (<byronlutz@gmail.com>), Full-stack engineer at [Factual](https://factual.com).    
 **Materials:** Bring your laptop and a charger to each training session. All software we use is free and mostly open-source.    
-**Location:** Location may change each week. (Week 1: Ackerman 3508; Week 2: Ackerman 3508)    
+**Location:** Week 1: Ackerman 3508; Week 2: Ackerman 3508; Week 3: TBD. (Up-to-date information will be posted outside the Daily Bruin office, at Kerckhoff 118 on the morning of each training.)    
 **Time:** Trainings are from 10:30 a.m. - 3:00 p.m. We'll take a lunch break around noon each day, so either bring money or pack a lunch.    
 **Attendance:** Attending all three trainings (and the media-law training) are all **mandatory**. You will be working in groups during the trainings, so it's difficult to plan unless everyone is present.
 
@@ -36,11 +36,16 @@
 
 **[Project 1](projects/project1.md)** due Saturday, January 28 by 5 p.m.
 
-### Date TBD (Bruin Reception Room)
+### Tuesday, January 24 (Bruin Reception Room)
 Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located in the **Bruin Reception Room**.
 
 ### Sunday, January 29, 2017 (Ackerman 3508)
-* Resume/Hiring Tips
+* [Resume/Hiring Tips](topics/resume-hiring.md)
+* Training 1 review
+  * HTML
+  * CSS
+  * Project 1
+* Git part 2 (branches, merges)
 * [Responsive design (using Bootstrap)](topics/html-css-js.md)
 * [Basic Javascript](topics/html-css-js.md)
   * VIDEO: [Wat](https://www.destroyallsoftware.com/talks/wat)
@@ -50,7 +55,7 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
 
 <!--**[Project 2](projects/project2.md)** due Saturday, October 22 by 5 p.m. Email to <byronlutz@gmail.com>.-->
 
-### Sunday, February 5, 2017
+### Sunday, February 5, 2017 (Location TBD)
 * Bringing it all together...
 * Daily Bruin training
 * Guest speaker?
