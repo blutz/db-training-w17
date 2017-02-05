@@ -18,6 +18,7 @@
 **Due Saturday, February 4, 2017 @ 5:00pm**
 * Post your code on GitHub (preferably using gh-pages) with all requirements
 * Write a short (individual) status report with (a) challenges you faced and mistakes you made and (b) something else you want to learn to do to your page
-* **[Submit your project here](https://airtable.com/shrrWZezmb8NLlsGg)**
+
+**[Submit your project here](https://airtable.com/shryGkuqL5H6ib8UC)**
 
 [Check here](https://airtable.com/shr4rXfPiOMCHh61S) to see if your project was submitted successfully.
