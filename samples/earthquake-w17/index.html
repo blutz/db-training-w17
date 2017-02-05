@@ -17,10 +17,23 @@
   <script id='earthquake-error' type='text/x-handlebars-template'>
     <strong>ERROR:</strong> There was a problem loading your earthquakes.
   </script>
+  <script id='magnitude-button-template' type='text/x-handlebars-template'>
+    {{#each buttons}}
+    <a class='btn btn-default' data-magnitude='{{magnitude}}'>{{label}}</a>
+    {{/each}}
+  </script>
 </head>
 <body>
 
-  <div id='quakes'></div>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-sm-10 col-sm-offset-1'>
+        <h1>Earthquake tracker</h1>
+        <a class='btn btn-primary' id='refresh-button'>Refresh</a>
+        <div id='magnitude-buttons'></div>
+        <div id='quakes'></div>
+      <div class='col-sm-10 col-sm-offset-1'>
+  </div>
 
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js'></script>
