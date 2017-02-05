@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <title>Earthquake tracker</title>
+  <meta charset='UTF-8' />
+  <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css' />
+  <link href='style.css' rel='stylesheet' type='text/css' />
+  <script id='earthquake-template' type='text/x-handlebars-template'>
+  	<ul>
+  		{{#each earthquakes}}
+  		<li>{{properties.title}}</li>
+  		{{/each}}
+  	</ul>
+  </script>
+  <script id='earthquake-error-template' type='text/x-handlebars-template'>
+  	<strong>Error:</strong> Something went wrong.
+  </script>
+  <script id='magnitude-buttons-template' type='text/x-handlebars-template'>
+  	{{#each magnitude}}
+  	<a class='btn btn-default' data-magnitude='{{magnitude}}'>{{label}}</a>
+  	{{/each}}
+  </script>
+</head>
+<body>
+
+	<div class='container'>
+		<div class='row'>
+			<div class='col-sm-8 col-sm-offset-2'>
+				<h1>Earthquake tracker!</h1>
+				<a class='btn btn-primary' id='refresh-button'>Refresh</a>
+				<div id='magnitude-buttons'></div>
+			  <div id='content'></div>
+			 </div>
+	  </div>
+  </div>
+
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js'></script>
+  <script src='script.js'></script>
+</body>
+</html>
