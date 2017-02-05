@@ -1,25 +1,36 @@
 $(document).ready(function() {
-  // Your Javascript code here
+  // Boilerplate handlebars code
+  var template = Handlebars.compile($('#earthquake-entry').html())
+  var errorTemplate = Handlebars.compile($('#earthquake-error').html())
+  var container = $('#quakes')
 
-  // SAMPLE: Grab earthquake data from USGS feed
+
   var EARTHQUAKE_API = 'http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson'
-  $.get(EARTHQUAKE_API)
-    .done(function(res) {
-      // Output earthquakes to the page
-      console.log(res);
-      simpleEarthquakeDisplay(res.features);
-    })
-    .fail(function(error) {
-      // Do something with the error
-    })
 
-  // SAMPLE: Display the earthquake titles on the page
-  function simpleEarthquakeDisplay(quakes) {
-    var container = $('#sample').empty();
-    quakes.forEach(function(quake) {
-      var quakeEl = $('<li></li>')
-        .text(quake.properties.title)
-        .appendTo(container);
+  function getEarthquakeData(cb) {
+    $.get(EARTHQUAKE_API)
+      .done(function(res) {
+        cb(undefined, res.features)
+      })
+      .fail(function(error) {
+        cb(error)
+      })
+  }
+  function renderEarthquakes(resp) {
+    var context = {
+      quakes: resp
+    }
+    container.html(template(context))
+  }
+  function renderError() { container.html(errorTemplate()) }
+
+  function refresh() {
+    getEarthquakeData(function(error, resp) {
+      if (error) renderError();
+      else renderEarthquakes(resp);
     });
   }
+
+  // First load
+  refresh();
 });

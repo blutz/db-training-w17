@@ -5,13 +5,25 @@
   <meta charset='UTF-8' />
   <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css' />
   <link href='style.css' rel='stylesheet' type='text/css' />
+  <script id='earthquake-entry' type='text/x-handlebars-template'>
+    <ul>
+      {{#each quakes}}
+        <li class='earthquake'>
+          {{properties.title}}
+        </li>
+      {{/each}}
+    </ul>
+  </script>
+  <script id='earthquake-error' type='text/x-handlebars-template'>
+    <strong>ERROR:</strong> There was a problem loading your earthquakes.
+  </script>
 </head>
 <body>
-  <!-- Put your HTML here! -->
 
-  <ul id='sample'></ul> <!-- Remove this sample element -->
+  <div id='quakes'></div>
 
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.6/handlebars.min.js'></script>
   <script src='script.js'></script>
 </body>
 </html>
