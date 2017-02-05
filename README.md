@@ -5,7 +5,7 @@
 
 **Instructor:** Byron Lutz (<byronlutz@gmail.com>), Full-stack engineer at [Factual](https://factual.com).    
 **Materials:** Bring your laptop and a charger to each training session. All software we use is free and mostly open-source.    
-**Location:** Week 1: Ackerman 3508; Week 2: Ackerman 3508; Week 3: TBD. (Up-to-date information will be posted outside the Daily Bruin office, at Kerckhoff 118 on the morning of each training.)    
+**Location:** Week 1: Ackerman 3508; Week 2: Ackerman 3508; Week 3: Ackerman 3508. (Up-to-date information will be posted outside the Daily Bruin office, at Kerckhoff 118 on the morning of each training.)    
 **Time:** Trainings are from 10:30 a.m. - 3:00 p.m. We'll take a lunch break around noon each day, so either bring money or pack a lunch.    
 **Attendance:** Attending all three trainings (and the media-law training) are all **mandatory**. You will be working in groups during the trainings, so it's difficult to plan unless everyone is present.
 
@@ -61,9 +61,14 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
 
 **[Project 2](projects/project2.md)** due Saturday, February 4 by 5 p.m.
 
-### Sunday, February 5, 2017 (Location TBD)
+### Sunday, February 5, 2017 (Ackerman 3508)
+* Training 2 review
+  * JS
+  * jQuery
+  * AJAX
+  * Project 2
 * Handlebars
+  * Lab: Convert part of your project to use Handlebars
 * Bringing it all together...
 * Editor-led training
-* Guest speaker?
 * Post-survey
