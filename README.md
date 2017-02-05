@@ -70,6 +70,7 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
 * [Handlebars](http://handlebarsjs.com/)
   * Demo (earthquake project using handlebars)
   * Lab: Convert part of your project to use Handlebars
+* Promises
 * Questions...
 * Editor-led training
 * Post-survey
