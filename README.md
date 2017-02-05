@@ -67,7 +67,7 @@ Media law training: **Tuesday, January 24,** from 6:00 p.m. to 8:00 PM, located 
   * jQuery
   * AJAX
   * Project 2
-* Handlebars
+* [Handlebars](http://handlebarsjs.com/)
   * Lab: Convert part of your project to use Handlebars
 * Bringing it all together...
 * Editor-led training
