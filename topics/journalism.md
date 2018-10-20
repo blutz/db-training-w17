@@ -46,5 +46,6 @@ Types of data journalism that you might be doing:
 * [More than 150 Republican Leaders Don't Support Donald Trump](http://www.nytimes.com/interactive/2016/08/29/us/politics/at-least-110-republican-leaders-wont-vote-for-donald-trump-heres-when-they-reached-their-breaking-point.html)
 * [Who's On Track For The Nomination](http://projects.fivethirtyeight.com/election-2016/delegate-targets/democrats/)
 * [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
+* [Choice and Chance](http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shooting/choice-chance-3d-map/)
 
 A lot more examples [can be found here](http://simp.ly/publish/gzxgH2).
