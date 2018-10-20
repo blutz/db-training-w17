@@ -47,5 +47,6 @@ Types of data journalism that you might be doing:
 * [Who's On Track For The Nomination](http://projects.fivethirtyeight.com/election-2016/delegate-targets/democrats/)
 * [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/)
 * [Choice and Chance](http://www.tampabay.com/projects/2016/breaking-news/orlando-nightclub-shooting/choice-chance-3d-map/)
+* [Hellfire from above](http://www.tampabay.com/projects/2017/investigations/tampa-electric/big-bend-hellfire-from-above/)
 
 A lot more examples [can be found here](http://simp.ly/publish/gzxgH2).
